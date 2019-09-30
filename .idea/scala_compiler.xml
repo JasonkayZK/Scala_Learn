@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="Scala_Learn" />
+    <profile name="sbt 1" modules="Scala_Learn,scala_learn_6012" />
   </component>
 </project>

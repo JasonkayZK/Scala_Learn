@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8ac0803-9133-4db0-995b-6fa5e13ba6e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="056c29d8-c539-4d75-83c1-60a9bcbb1865" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter1/classAndObject1/ChecksumAccumulator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter1/classAndObject3/Rational.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter1/classAndObject4/Rational.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter1/classAndObject5/Rational.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter2/forDemo/ForDemo1.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter2/forDemo/ForDemo2.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter2/forDemo/ForDemo3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter2/ifDemo/IfDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/chapter2/whileDemo/WhileDemo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/script/anotherprint.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/script/printargs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_1_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/Scala_Learn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Scala_Learn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4be87aaaf446e82c257d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4be87aaaf446e82c257d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4be87aaaf446e82c257d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,10 +35,6 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="ErrorTreeViewConfiguration">
-    <option name="autoscrollToSource" value="true" />
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
-  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -27,27 +43,39 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Package Object" />
+        <option value="Scala Object" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1RPiMlMjV7Hnx4ClfNKdeLVFc1M" />
+  <component name="ProjectId" id="1RXuESW8aEdqV6FQx8n0CM3izyE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter1.classAndObject4" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,13 +89,65 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="chapter0.helloworld.HelloWorld" />
+  <component name="RunManager" selected="Application.ForDemo2">
+    <configuration name="ForDemo1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.forDemo.ForDemo1" />
       <module name="Scala_Learn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter0.helloworld.*" />
+          <option name="PATTERN" value="chapter2.forDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.forDemo.ForDemo2" />
+      <module name="Scala_Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.forDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ifDemo.IfDemo" />
+      <module name="Scala_Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.ifDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rational (2)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.classAndObject5.Rational" />
+      <module name="Scala_Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.classAndObject5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.whileDemo.WhileDemo" />
+      <module name="Scala_Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.whileDemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,7 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.ForDemo2" />
+        <item itemvalue="Application.ForDemo1" />
+        <item itemvalue="Application.WhileDemo" />
+        <item itemvalue="Application.IfDemo" />
+        <item itemvalue="Application.Rational (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -108,14 +192,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3139150170114" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2702444787" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2868604264" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -124,13 +202,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f8ac0803-9133-4db0-995b-6fa5e13ba6e1" name="Default Changelist" comment="" />
-      <created>1569575085051</created>
+      <changelist id="056c29d8-c539-4d75-83c1-60a9bcbb1865" name="Default Changelist" comment="" />
+      <created>1569825650846</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569575085051</updated>
-      <workItem from="1569575086623" duration="441000" />
-      <workItem from="1569575594335" duration="63000" />
+      <updated>1569825650846</updated>
+      <workItem from="1569825658582" duration="14269000" />
     </task>
     <servers />
   </component>
@@ -147,5 +224,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
